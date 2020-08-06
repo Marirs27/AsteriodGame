@@ -1,2 +1,2 @@
 # AsteriodGame
-A space ship simulation game developed using C++
+A space ship simulation game developed using Unity
